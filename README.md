@@ -1,5 +1,9 @@
 # userbase_growth_graph
 A java CLI application used to visualise the growth of a user base by graph.
+I was going to use the input from the json file to create a scatter plot with the unicode block as a bar
+
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
